@@ -1,0 +1,2 @@
+#### Some additional information about today's task.
+I installed wikip[edia's API, which made things a lot easier. Also, I didn't step into the more complex zones web scraping has to offer. So I ended up simply doing the simplest version of this task.
